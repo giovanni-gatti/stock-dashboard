@@ -1,3 +1,3 @@
 # Stock-Dashboard
-Interactive dashboard to track live TSLA stock price and visualize historical data.
-Graphics built using Dash and Plotly.
+Interactive dashboard to track live stock prices and visualize historical data.
+Graphics built using the Dash and Plotly libraries.
